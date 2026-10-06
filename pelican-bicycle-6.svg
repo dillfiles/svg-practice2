@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300">
+  <rect width="400" height="300" fill="#e0f2fe"/>
+  <circle cx="70" cy="60" r="30" fill="#bae6fd"/>
+  <circle cx="320" cy="90" r="20" fill="#bae6fd"/>
+  <ellipse cx="200" cy="278" rx="170" ry="9" fill="#86c5a8"/>
+
+  <circle cx="110" cy="240" r="42" fill="none" stroke="#0f172a" stroke-width="5"/>
+  <circle cx="290" cy="240" r="42" fill="none" stroke="#0f172a" stroke-width="5"/>
+  <circle cx="110" cy="240" r="6" fill="#0f172a"/>
+  <circle cx="290" cy="240" r="6" fill="#0f172a"/>
+
+  <path d="M110 240 L175 170 L255 170 L290 240 M175 170 L215 240 L110 240 M215 240 L255 170" fill="none" stroke="#f59e0b" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="255" y1="170" x2="272" y2="140" stroke="#0f172a" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="272" cy="140" r="4" fill="#0f172a"/>
+  <line x1="175" y1="170" x2="165" y2="145" stroke="#0f172a" stroke-width="5" stroke-linecap="round"/>
+  <rect x="150" y="140" width="30" height="9" rx="4.5" fill="#0f172a"/>
+
+  <ellipse cx="200" cy="112" rx="56" ry="40" fill="#ffffff" stroke="#333" stroke-width="3"/>
+  <polygon points="148,98 118,86 122,116" fill="#efefef" stroke="#333" stroke-width="3" stroke-linejoin="round"/>
+  <ellipse cx="195" cy="120" rx="30" ry="19" fill="#cfeaff" stroke="#333" stroke-width="3"/>
+  <rect x="228" y="48" width="20" height="52" fill="#ffffff" stroke="#333" stroke-width="3"/>
+  <circle cx="233" cy="38" r="25" fill="#ffffff" stroke="#333" stroke-width="3"/>
+  <circle cx="241" cy="33" r="4.5" fill="#000"/>
+  <path d="M 252 32 L 336 52 L 252 52 Z" fill="#ffb347" stroke="#333" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M 252 52 Q 294 84 330 54" fill="#ff8c66" stroke="#333" stroke-width="2"/>
+  <path d="M 210 30 A 26 26 0 0 1 256 30 L 256 22 L 210 22 Z" fill="#2563eb" stroke="#333" stroke-width="2"/>
+  <line x1="180" y1="146" x2="210" y2="205" stroke="#ffb347" stroke-width="7" stroke-linecap="round"/>
+  <line x1="205" y1="148" x2="232" y2="232" stroke="#ffb347" stroke-width="7" stroke-linecap="round"/>
+</svg>
